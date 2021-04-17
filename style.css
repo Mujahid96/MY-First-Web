@@ -68,5 +68,9 @@ border-image-slice:1;
 }
 footer p{
     text-align: center;
+    
     font-size: 12px;
+}
+#exp-padding{
+    padding-left: 3%;
 }
