@@ -28,7 +28,9 @@ img{
 
 section{
     padding-bottom: 150px;
+    padding-top: 150px;
     height: 500px;
+    
 }
 .button-design{
     color:white;
@@ -39,13 +41,14 @@ section{
     border-radius: 5px;
 
 }
+
 .dream-area{
     background-image: url("image/dream-bg.png");
     background-repeat:no-repeat;
     background-position: right;
 }
 .single-experinace{
-    box-shadow: 10px 20px 40px gray;
+    box-shadow: 10px 20px 40px rgba(136, 247, 247, 0.986);
     border-radius: 5px;
     height: 80%;
     padding-left: 2%;
